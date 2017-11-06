@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(243,214,228);
+}
+
+.button {
+  padding:10px 18px;
+  color: black;
+  background-color: rgb(146,181,88);
+}
+
+#rectangle {
+  background: rgb(210,105,30);
+  height:50px;
+  margin-top:30px;
+}
